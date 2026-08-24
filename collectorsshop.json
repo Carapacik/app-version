@@ -1,7 +1,6 @@
 [
   {
-    "version": "1.12.0",
-    "validation": false,
-    "buyout": false
+    "version": "1.13.0",
+    "validation": false
   }
 ]
